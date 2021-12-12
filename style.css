@@ -1,0 +1,165 @@
+/** Navbar Start **/
+
+#googleUygulamaları
+{
+    color: rgba(0,0,0,0.87);
+    line-height: 24px;
+    vertical-align: middle;
+    line-height: 24px;
+    margin-right: 15px
+}
+
+#Gmail
+{
+    line-height: 24px;
+    vertical-align: middle;
+    font-family: arial,sans-serif;
+    line-height: 24px;
+    margin-right: 15px;
+    text-decoration: none;
+    font-size: 13px;
+    margin-right: 15px;
+    color: lightslategrey;
+}
+
+#Gmail:hover
+{
+    text-decoration: underline;
+}
+
+#Görseller {
+    line-height: 24px;
+    vertical-align: middle;
+    font-family: arial,sans-serif;
+    line-height: 24px;
+    margin-right: 15px;
+    text-decoration: none;
+    font-size: 13px; 
+    margin-right: 15px;
+    color: lightslategrey
+    
+    
+}
+
+#Görseller:hover
+{
+    text-decoration: underline;
+}
+
+#mail
+{
+    width: 30px; height: 30px; border-radius: 30px;
+    margin-right: 5px;
+    margin-left: 8px;
+}
+
+/** Navbar End **/
+
+
+/** Middle Part **/
+#search
+{
+    width: 450px;
+    line-height: 32px;
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #dfe1e5;
+    box-shadow: none;
+    
+}
+
+#search:hover
+{
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+    outline: none;
+}
+
+/*
+.speechinput
+{
+   font-size: 20px;
+}
+*/
+
+#googlesearch
+
+{
+    
+    border-style: solid;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    margin: 11px 4px ;
+    border: 1px #f2f2f2 ;
+    border-radius: 4px;
+    font-family: arial ;
+    text-color: #5f6368;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+}
+
+#kendimisanslihissediyorum
+ 
+{
+   
+    border-style: solid;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    margin: 11px 4px ;
+    border: 1px #f2f2f2 ;
+    border-radius: 4px;
+    font-family: arial ;
+    text-color: #5f6368;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+}
+/** Middle Part End **/
+
+/** Footer Start **/
+
+.footer 
+{
+background-color: #f2f2f2;
+height: 95px;
+width: auto;
+margin-top: 367px;
+padding: 0;
+bottom: 0;
+overflow: hidden;
+display: flex;
+}
+
+.footer-sol
+{
+    padding-top: 33px;
+    float: left;
+    list-style: none; 
+    
+    
+}
+
+.footer-sag
+{
+    float: right;
+    list-style: none;   
+    padding-top: 33px;
+}
+
+#footerli
+{
+    text-decoration: none; 
+    color: rgb(74, 76, 78);
+    font-family: arial,sans-serif;
+    margin-right: 5px;
+    margin-left: 8px;
+    
+}
+
+#footerli:hover
+{
+    text-decoration: underline;
+    
+}
+
